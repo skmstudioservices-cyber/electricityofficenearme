@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electricityofficenearme.pages.dev/sitemap.xml
